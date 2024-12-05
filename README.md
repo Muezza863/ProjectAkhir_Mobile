@@ -1,5 +1,10 @@
 # wisata
 
+Nama anggota kelompok : 
+- Muhammad Wijaya (124220045)
+- Silvia Melinda Yuniar (124220053)
+
+
 A new Flutter project.
 
 ## Getting Started
